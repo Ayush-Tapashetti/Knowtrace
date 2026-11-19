@@ -1,0 +1,12 @@
+.env
+data/
+node_modules/
+.venv/
+dist/
+__pycache__/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+.hypothesis/
+coverage/
