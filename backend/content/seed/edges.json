@@ -1,0 +1,310 @@
+[
+ {
+  "concept_id": "place_value",
+  "prereq_id": "counting"
+ },
+ {
+  "concept_id": "add_whole",
+  "prereq_id": "counting"
+ },
+ {
+  "concept_id": "sub_whole",
+  "prereq_id": "add_whole"
+ },
+ {
+  "concept_id": "mult_facts",
+  "prereq_id": "add_whole"
+ },
+ {
+  "concept_id": "div_facts",
+  "prereq_id": "mult_facts"
+ },
+ {
+  "concept_id": "div_facts",
+  "prereq_id": "sub_whole"
+ },
+ {
+  "concept_id": "multi_digit_mult",
+  "prereq_id": "mult_facts"
+ },
+ {
+  "concept_id": "multi_digit_mult",
+  "prereq_id": "place_value"
+ },
+ {
+  "concept_id": "long_division",
+  "prereq_id": "div_facts"
+ },
+ {
+  "concept_id": "long_division",
+  "prereq_id": "multi_digit_mult"
+ },
+ {
+  "concept_id": "factors",
+  "prereq_id": "mult_facts"
+ },
+ {
+  "concept_id": "factors",
+  "prereq_id": "div_facts"
+ },
+ {
+  "concept_id": "primes",
+  "prereq_id": "factors"
+ },
+ {
+  "concept_id": "order_ops",
+  "prereq_id": "add_whole"
+ },
+ {
+  "concept_id": "order_ops",
+  "prereq_id": "sub_whole"
+ },
+ {
+  "concept_id": "order_ops",
+  "prereq_id": "mult_facts"
+ },
+ {
+  "concept_id": "negatives",
+  "prereq_id": "sub_whole"
+ },
+ {
+  "concept_id": "int_ops",
+  "prereq_id": "negatives"
+ },
+ {
+  "concept_id": "int_ops",
+  "prereq_id": "mult_facts"
+ },
+ {
+  "concept_id": "exponents",
+  "prereq_id": "mult_facts"
+ },
+ {
+  "concept_id": "frac_meaning",
+  "prereq_id": "div_facts"
+ },
+ {
+  "concept_id": "equiv_frac",
+  "prereq_id": "frac_meaning"
+ },
+ {
+  "concept_id": "equiv_frac",
+  "prereq_id": "factors"
+ },
+ {
+  "concept_id": "compare_frac",
+  "prereq_id": "equiv_frac"
+ },
+ {
+  "concept_id": "add_like_frac",
+  "prereq_id": "frac_meaning"
+ },
+ {
+  "concept_id": "add_like_frac",
+  "prereq_id": "add_whole"
+ },
+ {
+  "concept_id": "add_unlike_frac",
+  "prereq_id": "add_like_frac"
+ },
+ {
+  "concept_id": "add_unlike_frac",
+  "prereq_id": "equiv_frac"
+ },
+ {
+  "concept_id": "mixed_numbers",
+  "prereq_id": "frac_meaning"
+ },
+ {
+  "concept_id": "mixed_numbers",
+  "prereq_id": "mult_facts"
+ },
+ {
+  "concept_id": "mult_frac",
+  "prereq_id": "frac_meaning"
+ },
+ {
+  "concept_id": "mult_frac",
+  "prereq_id": "mult_facts"
+ },
+ {
+  "concept_id": "div_frac",
+  "prereq_id": "mult_frac"
+ },
+ {
+  "concept_id": "dec_place",
+  "prereq_id": "place_value"
+ },
+ {
+  "concept_id": "dec_place",
+  "prereq_id": "frac_meaning"
+ },
+ {
+  "concept_id": "dec_ops",
+  "prereq_id": "dec_place"
+ },
+ {
+  "concept_id": "dec_ops",
+  "prereq_id": "multi_digit_mult"
+ },
+ {
+  "concept_id": "frac_to_dec",
+  "prereq_id": "dec_place"
+ },
+ {
+  "concept_id": "frac_to_dec",
+  "prereq_id": "long_division"
+ },
+ {
+  "concept_id": "percent_meaning",
+  "prereq_id": "frac_to_dec"
+ },
+ {
+  "concept_id": "percent_of",
+  "prereq_id": "percent_meaning"
+ },
+ {
+  "concept_id": "percent_of",
+  "prereq_id": "dec_ops"
+ },
+ {
+  "concept_id": "percent_change",
+  "prereq_id": "percent_of"
+ },
+ {
+  "concept_id": "percent_change",
+  "prereq_id": "sub_whole"
+ },
+ {
+  "concept_id": "ratio_meaning",
+  "prereq_id": "frac_meaning"
+ },
+ {
+  "concept_id": "unit_rate",
+  "prereq_id": "ratio_meaning"
+ },
+ {
+  "concept_id": "unit_rate",
+  "prereq_id": "long_division"
+ },
+ {
+  "concept_id": "proportion",
+  "prereq_id": "unit_rate"
+ },
+ {
+  "concept_id": "proportion",
+  "prereq_id": "equiv_frac"
+ },
+ {
+  "concept_id": "variables",
+  "prereq_id": "order_ops"
+ },
+ {
+  "concept_id": "evaluate_expr",
+  "prereq_id": "variables"
+ },
+ {
+  "concept_id": "evaluate_expr",
+  "prereq_id": "int_ops"
+ },
+ {
+  "concept_id": "like_terms",
+  "prereq_id": "variables"
+ },
+ {
+  "concept_id": "like_terms",
+  "prereq_id": "int_ops"
+ },
+ {
+  "concept_id": "one_step_eq",
+  "prereq_id": "variables"
+ },
+ {
+  "concept_id": "one_step_eq",
+  "prereq_id": "int_ops"
+ },
+ {
+  "concept_id": "two_step_eq",
+  "prereq_id": "one_step_eq"
+ },
+ {
+  "concept_id": "coord_plane",
+  "prereq_id": "negatives"
+ },
+ {
+  "concept_id": "slope",
+  "prereq_id": "coord_plane"
+ },
+ {
+  "concept_id": "slope",
+  "prereq_id": "unit_rate"
+ },
+ {
+  "concept_id": "linear_eq",
+  "prereq_id": "slope"
+ },
+ {
+  "concept_id": "linear_eq",
+  "prereq_id": "two_step_eq"
+ },
+ {
+  "concept_id": "perimeter",
+  "prereq_id": "add_whole"
+ },
+ {
+  "concept_id": "area_rect",
+  "prereq_id": "mult_facts"
+ },
+ {
+  "concept_id": "area_rect",
+  "prereq_id": "perimeter"
+ },
+ {
+  "concept_id": "area_tri",
+  "prereq_id": "area_rect"
+ },
+ {
+  "concept_id": "area_tri",
+  "prereq_id": "div_facts"
+ },
+ {
+  "concept_id": "angles",
+  "prereq_id": "add_whole"
+ },
+ {
+  "concept_id": "angles",
+  "prereq_id": "sub_whole"
+ },
+ {
+  "concept_id": "pythagoras",
+  "prereq_id": "exponents"
+ },
+ {
+  "concept_id": "pythagoras",
+  "prereq_id": "area_rect"
+ },
+ {
+  "concept_id": "pythagoras",
+  "prereq_id": "angles"
+ },
+ {
+  "concept_id": "mean",
+  "prereq_id": "add_whole"
+ },
+ {
+  "concept_id": "mean",
+  "prereq_id": "div_facts"
+ },
+ {
+  "concept_id": "median",
+  "prereq_id": "place_value"
+ },
+ {
+  "concept_id": "median",
+  "prereq_id": "mean"
+ },
+ {
+  "concept_id": "probability",
+  "prereq_id": "frac_meaning"
+ }
+]

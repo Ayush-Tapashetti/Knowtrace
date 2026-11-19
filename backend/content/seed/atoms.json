@@ -1,0 +1,2540 @@
+[
+ {
+  "concept_id": "counting",
+  "item_id": null,
+  "id": "a.counting.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Counting names how many there are, and each number is one more than the one before it."
+ },
+ {
+  "concept_id": "counting",
+  "item_id": null,
+  "id": "a.counting.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "After 47 comes 48, because 47 + 1 = 48."
+ },
+ {
+  "concept_id": "counting",
+  "item_id": null,
+  "id": "a.counting.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With counting and ordering secure, you are ready to go back to place value."
+ },
+ {
+  "id": "a.counting.pr",
+  "concept_id": "counting",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.counting.1",
+  "body": ""
+ },
+ {
+  "id": "a.counting.ck1",
+  "concept_id": "counting",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.counting.2",
+  "body": ""
+ },
+ {
+  "id": "a.counting.ck2",
+  "concept_id": "counting",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.counting.3",
+  "body": ""
+ },
+ {
+  "concept_id": "place_value",
+  "item_id": null,
+  "id": "a.place_value.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "A digit's value depends on its place: ones, tens, hundreds, thousands."
+ },
+ {
+  "concept_id": "place_value",
+  "item_id": null,
+  "id": "a.place_value.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "In 4,352 the 3 is in the hundreds place, so it is worth 300."
+ },
+ {
+  "concept_id": "place_value",
+  "item_id": null,
+  "id": "a.place_value.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With place value secure, you are ready to go back to multi-digit multiplication."
+ },
+ {
+  "id": "a.place_value.pr",
+  "concept_id": "place_value",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.place_value.1",
+  "body": ""
+ },
+ {
+  "id": "a.place_value.ck1",
+  "concept_id": "place_value",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.place_value.2",
+  "body": ""
+ },
+ {
+  "id": "a.place_value.ck2",
+  "concept_id": "place_value",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.place_value.3",
+  "body": ""
+ },
+ {
+  "concept_id": "add_whole",
+  "item_id": null,
+  "id": "a.add_whole.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Adding combines amounts; line up the places and carry when a column passes 9."
+ },
+ {
+  "concept_id": "add_whole",
+  "item_id": null,
+  "id": "a.add_whole.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "256 + 178: 6 + 8 = 14 (write 4, carry 1); 5 + 7 + 1 = 13 (write 3, carry 1); 2 + 1 + 1 = 4. The sum is 434."
+ },
+ {
+  "concept_id": "add_whole",
+  "item_id": null,
+  "id": "a.add_whole.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With adding whole numbers secure, you are ready to go back to subtracting whole numbers."
+ },
+ {
+  "id": "a.add_whole.pr",
+  "concept_id": "add_whole",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.add_whole.1",
+  "body": ""
+ },
+ {
+  "id": "a.add_whole.ck1",
+  "concept_id": "add_whole",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.add_whole.2",
+  "body": ""
+ },
+ {
+  "id": "a.add_whole.ck2",
+  "concept_id": "add_whole",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.add_whole.3",
+  "body": ""
+ },
+ {
+  "concept_id": "sub_whole",
+  "item_id": null,
+  "id": "a.sub_whole.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Subtracting finds what is left or the difference; borrow from the next place when needed."
+ },
+ {
+  "concept_id": "sub_whole",
+  "item_id": null,
+  "id": "a.sub_whole.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "52 − 27: borrow to make 12 − 7 = 5, then 4 − 2 = 2. The answer is 25."
+ },
+ {
+  "concept_id": "sub_whole",
+  "item_id": null,
+  "id": "a.sub_whole.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With subtracting whole numbers secure, you are ready to go back to division facts."
+ },
+ {
+  "id": "a.sub_whole.pr",
+  "concept_id": "sub_whole",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.sub_whole.1",
+  "body": ""
+ },
+ {
+  "id": "a.sub_whole.ck1",
+  "concept_id": "sub_whole",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.sub_whole.2",
+  "body": ""
+ },
+ {
+  "id": "a.sub_whole.ck2",
+  "concept_id": "sub_whole",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.sub_whole.3",
+  "body": ""
+ },
+ {
+  "concept_id": "mult_facts",
+  "item_id": null,
+  "id": "a.mult_facts.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Multiplication is repeated addition: 6 × 7 means seven sixes added together."
+ },
+ {
+  "concept_id": "mult_facts",
+  "item_id": null,
+  "id": "a.mult_facts.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+ },
+ {
+  "concept_id": "mult_facts",
+  "item_id": null,
+  "id": "a.mult_facts.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With multiplication facts secure, you are ready to go back to division facts."
+ },
+ {
+  "id": "a.mult_facts.pr",
+  "concept_id": "mult_facts",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.mult_facts.1",
+  "body": ""
+ },
+ {
+  "id": "a.mult_facts.ck1",
+  "concept_id": "mult_facts",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.mult_facts.2",
+  "body": ""
+ },
+ {
+  "id": "a.mult_facts.ck2",
+  "concept_id": "mult_facts",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.mult_facts.3",
+  "body": ""
+ },
+ {
+  "concept_id": "div_facts",
+  "item_id": null,
+  "id": "a.div_facts.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Division splits into equal groups and undoes multiplication: if 6 × 7 = 42 then 42 ÷ 7 = 6."
+ },
+ {
+  "concept_id": "div_facts",
+  "item_id": null,
+  "id": "a.div_facts.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "56 ÷ 8: ask what times 8 gives 56. It is 7, so 56 ÷ 8 = 7."
+ },
+ {
+  "concept_id": "div_facts",
+  "item_id": null,
+  "id": "a.div_facts.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With division facts secure, you are ready to go back to long division."
+ },
+ {
+  "id": "a.div_facts.pr",
+  "concept_id": "div_facts",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.div_facts.1",
+  "body": ""
+ },
+ {
+  "id": "a.div_facts.ck1",
+  "concept_id": "div_facts",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.div_facts.2",
+  "body": ""
+ },
+ {
+  "id": "a.div_facts.ck2",
+  "concept_id": "div_facts",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.div_facts.3",
+  "body": ""
+ },
+ {
+  "concept_id": "multi_digit_mult",
+  "item_id": null,
+  "id": "a.multi_digit_mult.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Break a number by place value, multiply each part, then add the partial products."
+ },
+ {
+  "concept_id": "multi_digit_mult",
+  "item_id": null,
+  "id": "a.multi_digit_mult.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "34 × 12 = 34 × 10 + 34 × 2 = 340 + 68 = 408."
+ },
+ {
+  "concept_id": "multi_digit_mult",
+  "item_id": null,
+  "id": "a.multi_digit_mult.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With multi-digit multiplication secure, you are ready to go back to long division."
+ },
+ {
+  "id": "a.multi_digit_mult.pr",
+  "concept_id": "multi_digit_mult",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.multi_digit_mult.1",
+  "body": ""
+ },
+ {
+  "id": "a.multi_digit_mult.ck1",
+  "concept_id": "multi_digit_mult",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.multi_digit_mult.2",
+  "body": ""
+ },
+ {
+  "id": "a.multi_digit_mult.ck2",
+  "concept_id": "multi_digit_mult",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.multi_digit_mult.3",
+  "body": ""
+ },
+ {
+  "concept_id": "long_division",
+  "item_id": null,
+  "id": "a.long_division.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Divide one place at a time from the left, multiply back, subtract, and bring down the next digit."
+ },
+ {
+  "concept_id": "long_division",
+  "item_id": null,
+  "id": "a.long_division.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "96 ÷ 4: 9 ÷ 4 = 2 (8), remainder 1; bring down 6 to make 16; 16 ÷ 4 = 4. The answer is 24."
+ },
+ {
+  "concept_id": "long_division",
+  "item_id": null,
+  "id": "a.long_division.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With long division secure, you are ready to go back to fractions as decimals."
+ },
+ {
+  "id": "a.long_division.pr",
+  "concept_id": "long_division",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.long_division.1",
+  "body": ""
+ },
+ {
+  "id": "a.long_division.ck1",
+  "concept_id": "long_division",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.long_division.2",
+  "body": ""
+ },
+ {
+  "id": "a.long_division.ck2",
+  "concept_id": "long_division",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.long_division.3",
+  "body": ""
+ },
+ {
+  "concept_id": "factors",
+  "item_id": null,
+  "id": "a.factors.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "A factor divides a number exactly; a multiple is what you get by multiplying it."
+ },
+ {
+  "concept_id": "factors",
+  "item_id": null,
+  "id": "a.factors.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "The factors of 12 are 1, 2, 3, 4, 6 and 12, because each divides 12 with no remainder."
+ },
+ {
+  "concept_id": "factors",
+  "item_id": null,
+  "id": "a.factors.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With factors and multiples secure, you are ready to go back to prime numbers."
+ },
+ {
+  "id": "a.factors.pr",
+  "concept_id": "factors",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.factors.1",
+  "body": ""
+ },
+ {
+  "id": "a.factors.ck1",
+  "concept_id": "factors",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.factors.2",
+  "body": ""
+ },
+ {
+  "id": "a.factors.ck2",
+  "concept_id": "factors",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.factors.3",
+  "body": ""
+ },
+ {
+  "concept_id": "primes",
+  "item_id": null,
+  "id": "a.primes.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "A prime has exactly two factors, 1 and itself."
+ },
+ {
+  "concept_id": "primes",
+  "item_id": null,
+  "id": "a.primes.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "13 has only 1 and 13 as factors, so it is prime. 15 is divisible by 3, so it is not."
+ },
+ {
+  "concept_id": "primes",
+  "item_id": null,
+  "id": "a.primes.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With prime numbers secure, go back to the question you missed."
+ },
+ {
+  "id": "a.primes.pr",
+  "concept_id": "primes",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.primes.1",
+  "body": ""
+ },
+ {
+  "id": "a.primes.ck1",
+  "concept_id": "primes",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.primes.2",
+  "body": ""
+ },
+ {
+  "id": "a.primes.ck2",
+  "concept_id": "primes",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.primes.3",
+  "body": ""
+ },
+ {
+  "concept_id": "order_ops",
+  "item_id": null,
+  "id": "a.order_ops.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Brackets first, then multiplication and division, then addition and subtraction."
+ },
+ {
+  "concept_id": "order_ops",
+  "item_id": null,
+  "id": "a.order_ops.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "3 + 4 × 2: multiply first (4 × 2 = 8), then add: 3 + 8 = 11."
+ },
+ {
+  "concept_id": "order_ops",
+  "item_id": null,
+  "id": "a.order_ops.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With order of operations secure, you are ready to go back to variables and expressions."
+ },
+ {
+  "id": "a.order_ops.pr",
+  "concept_id": "order_ops",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.order_ops.1",
+  "body": ""
+ },
+ {
+  "id": "a.order_ops.ck1",
+  "concept_id": "order_ops",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.order_ops.2",
+  "body": ""
+ },
+ {
+  "id": "a.order_ops.ck2",
+  "concept_id": "order_ops",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.order_ops.3",
+  "body": ""
+ },
+ {
+  "concept_id": "negatives",
+  "item_id": null,
+  "id": "a.negatives.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Negative numbers sit below zero on the number line; the further left, the smaller."
+ },
+ {
+  "concept_id": "negatives",
+  "item_id": null,
+  "id": "a.negatives.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "−7 is less than −2 because it is further to the left on the number line."
+ },
+ {
+  "concept_id": "negatives",
+  "item_id": null,
+  "id": "a.negatives.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With negative numbers secure, you are ready to go back to integer operations."
+ },
+ {
+  "id": "a.negatives.pr",
+  "concept_id": "negatives",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.negatives.1",
+  "body": ""
+ },
+ {
+  "id": "a.negatives.ck1",
+  "concept_id": "negatives",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.negatives.2",
+  "body": ""
+ },
+ {
+  "id": "a.negatives.ck2",
+  "concept_id": "negatives",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.negatives.3",
+  "body": ""
+ },
+ {
+  "concept_id": "int_ops",
+  "item_id": null,
+  "id": "a.int_ops.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Same signs multiply to a positive; different signs multiply to a negative."
+ },
+ {
+  "concept_id": "int_ops",
+  "item_id": null,
+  "id": "a.int_ops.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "(−4) × (−3): both negative, so the answer is positive: 12."
+ },
+ {
+  "concept_id": "int_ops",
+  "item_id": null,
+  "id": "a.int_ops.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With integer operations secure, you are ready to go back to evaluating expressions."
+ },
+ {
+  "id": "a.int_ops.pr",
+  "concept_id": "int_ops",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.int_ops.1",
+  "body": ""
+ },
+ {
+  "id": "a.int_ops.ck1",
+  "concept_id": "int_ops",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.int_ops.2",
+  "body": ""
+ },
+ {
+  "id": "a.int_ops.ck2",
+  "concept_id": "int_ops",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.int_ops.3",
+  "body": ""
+ },
+ {
+  "concept_id": "exponents",
+  "item_id": null,
+  "id": "a.exponents.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "An exponent says how many times to multiply the base by itself."
+ },
+ {
+  "concept_id": "exponents",
+  "item_id": null,
+  "id": "a.exponents.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "2^4 = 2 × 2 × 2 × 2 = 16."
+ },
+ {
+  "concept_id": "exponents",
+  "item_id": null,
+  "id": "a.exponents.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With exponents secure, you are ready to go back to pythagoras' theorem."
+ },
+ {
+  "id": "a.exponents.pr",
+  "concept_id": "exponents",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.exponents.1",
+  "body": ""
+ },
+ {
+  "id": "a.exponents.ck1",
+  "concept_id": "exponents",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.exponents.2",
+  "body": ""
+ },
+ {
+  "id": "a.exponents.ck2",
+  "concept_id": "exponents",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.exponents.3",
+  "body": ""
+ },
+ {
+  "concept_id": "frac_meaning",
+  "item_id": null,
+  "id": "a.frac_meaning.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "A fraction a/b means a of b equal parts of a whole."
+ },
+ {
+  "concept_id": "frac_meaning",
+  "item_id": null,
+  "id": "a.frac_meaning.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "A bar cut into 5 equal parts with 2 shaded shows 2/5."
+ },
+ {
+  "concept_id": "frac_meaning",
+  "item_id": null,
+  "id": "a.frac_meaning.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With what a fraction means secure, you are ready to go back to equivalent fractions."
+ },
+ {
+  "id": "a.frac_meaning.pr",
+  "concept_id": "frac_meaning",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.frac_meaning.1",
+  "body": ""
+ },
+ {
+  "id": "a.frac_meaning.ck1",
+  "concept_id": "frac_meaning",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.frac_meaning.2",
+  "body": ""
+ },
+ {
+  "id": "a.frac_meaning.ck2",
+  "concept_id": "frac_meaning",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.frac_meaning.3",
+  "body": ""
+ },
+ {
+  "concept_id": "equiv_frac",
+  "item_id": null,
+  "id": "a.equiv_frac.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Multiply or divide top and bottom by the same number and the fraction keeps its value."
+ },
+ {
+  "concept_id": "equiv_frac",
+  "item_id": null,
+  "id": "a.equiv_frac.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "2/3 = (2×4)/(3×4) = 8/12."
+ },
+ {
+  "concept_id": "equiv_frac",
+  "item_id": null,
+  "id": "a.equiv_frac.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With equivalent fractions secure, you are ready to go back to comparing fractions."
+ },
+ {
+  "id": "a.equiv_frac.pr",
+  "concept_id": "equiv_frac",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.equiv_frac.1",
+  "body": ""
+ },
+ {
+  "id": "a.equiv_frac.ck1",
+  "concept_id": "equiv_frac",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.equiv_frac.2",
+  "body": ""
+ },
+ {
+  "id": "a.equiv_frac.ck2",
+  "concept_id": "equiv_frac",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.equiv_frac.3",
+  "body": ""
+ },
+ {
+  "concept_id": "compare_frac",
+  "item_id": null,
+  "id": "a.compare_frac.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "With the same top, the fraction with the smaller bottom is bigger because its parts are larger."
+ },
+ {
+  "concept_id": "compare_frac",
+  "item_id": null,
+  "id": "a.compare_frac.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "1/3 is bigger than 1/5: thirds are larger pieces than fifths."
+ },
+ {
+  "concept_id": "compare_frac",
+  "item_id": null,
+  "id": "a.compare_frac.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With comparing fractions secure, go back to the question you missed."
+ },
+ {
+  "id": "a.compare_frac.pr",
+  "concept_id": "compare_frac",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.compare_frac.1",
+  "body": ""
+ },
+ {
+  "id": "a.compare_frac.ck1",
+  "concept_id": "compare_frac",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.compare_frac.2",
+  "body": ""
+ },
+ {
+  "id": "a.compare_frac.ck2",
+  "concept_id": "compare_frac",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.compare_frac.3",
+  "body": ""
+ },
+ {
+  "concept_id": "add_like_frac",
+  "item_id": null,
+  "id": "a.add_like_frac.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Same-sized parts add by adding the tops and keeping the bottom."
+ },
+ {
+  "concept_id": "add_like_frac",
+  "item_id": null,
+  "id": "a.add_like_frac.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "2/7 + 3/7 = 5/7. The sevenths stay sevenths."
+ },
+ {
+  "concept_id": "add_like_frac",
+  "item_id": null,
+  "id": "a.add_like_frac.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With adding fractions with the same denominator secure, you are ready to go back to adding fractions with different denominators."
+ },
+ {
+  "id": "a.add_like_frac.pr",
+  "concept_id": "add_like_frac",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.add_like_frac.1",
+  "body": ""
+ },
+ {
+  "id": "a.add_like_frac.ck1",
+  "concept_id": "add_like_frac",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.add_like_frac.2",
+  "body": ""
+ },
+ {
+  "id": "a.add_like_frac.ck2",
+  "concept_id": "add_like_frac",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.add_like_frac.3",
+  "body": ""
+ },
+ {
+  "concept_id": "add_unlike_frac",
+  "item_id": null,
+  "id": "a.add_unlike_frac.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "First rewrite both fractions with a common denominator, then add the tops."
+ },
+ {
+  "concept_id": "add_unlike_frac",
+  "item_id": null,
+  "id": "a.add_unlike_frac.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "1/2 + 1/3 = 3/6 + 2/6 = 5/6."
+ },
+ {
+  "concept_id": "add_unlike_frac",
+  "item_id": null,
+  "id": "a.add_unlike_frac.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With adding fractions with different denominators secure, go back to the question you missed."
+ },
+ {
+  "id": "a.add_unlike_frac.pr",
+  "concept_id": "add_unlike_frac",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.add_unlike_frac.1",
+  "body": ""
+ },
+ {
+  "id": "a.add_unlike_frac.ck1",
+  "concept_id": "add_unlike_frac",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.add_unlike_frac.2",
+  "body": ""
+ },
+ {
+  "id": "a.add_unlike_frac.ck2",
+  "concept_id": "add_unlike_frac",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.add_unlike_frac.3",
+  "body": ""
+ },
+ {
+  "concept_id": "mixed_numbers",
+  "item_id": null,
+  "id": "a.mixed_numbers.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "A mixed number is a whole plus a fraction; multiply the whole by the bottom and add the top to make an improper fraction."
+ },
+ {
+  "concept_id": "mixed_numbers",
+  "item_id": null,
+  "id": "a.mixed_numbers.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "2 1/3 = (2×3 + 1)/3 = 7/3."
+ },
+ {
+  "concept_id": "mixed_numbers",
+  "item_id": null,
+  "id": "a.mixed_numbers.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With mixed numbers and improper fractions secure, go back to the question you missed."
+ },
+ {
+  "id": "a.mixed_numbers.pr",
+  "concept_id": "mixed_numbers",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.mixed_numbers.1",
+  "body": ""
+ },
+ {
+  "id": "a.mixed_numbers.ck1",
+  "concept_id": "mixed_numbers",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.mixed_numbers.2",
+  "body": ""
+ },
+ {
+  "id": "a.mixed_numbers.ck2",
+  "concept_id": "mixed_numbers",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.mixed_numbers.3",
+  "body": ""
+ },
+ {
+  "concept_id": "mult_frac",
+  "item_id": null,
+  "id": "a.mult_frac.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Multiply the tops together and the bottoms together, then simplify."
+ },
+ {
+  "concept_id": "mult_frac",
+  "item_id": null,
+  "id": "a.mult_frac.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "2/3 × 3/4 = 6/12 = 1/2."
+ },
+ {
+  "concept_id": "mult_frac",
+  "item_id": null,
+  "id": "a.mult_frac.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With multiplying fractions secure, you are ready to go back to dividing fractions."
+ },
+ {
+  "id": "a.mult_frac.pr",
+  "concept_id": "mult_frac",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.mult_frac.1",
+  "body": ""
+ },
+ {
+  "id": "a.mult_frac.ck1",
+  "concept_id": "mult_frac",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.mult_frac.2",
+  "body": ""
+ },
+ {
+  "id": "a.mult_frac.ck2",
+  "concept_id": "mult_frac",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.mult_frac.3",
+  "body": ""
+ },
+ {
+  "concept_id": "div_frac",
+  "item_id": null,
+  "id": "a.div_frac.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Dividing by a fraction means multiplying by its reciprocal (flip it)."
+ },
+ {
+  "concept_id": "div_frac",
+  "item_id": null,
+  "id": "a.div_frac.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "1/2 ÷ 1/4 = 1/2 × 4/1 = 4/2 = 2."
+ },
+ {
+  "concept_id": "div_frac",
+  "item_id": null,
+  "id": "a.div_frac.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With dividing fractions secure, go back to the question you missed."
+ },
+ {
+  "id": "a.div_frac.pr",
+  "concept_id": "div_frac",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.div_frac.1",
+  "body": ""
+ },
+ {
+  "id": "a.div_frac.ck1",
+  "concept_id": "div_frac",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.div_frac.2",
+  "body": ""
+ },
+ {
+  "id": "a.div_frac.ck2",
+  "concept_id": "div_frac",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.div_frac.3",
+  "body": ""
+ },
+ {
+  "concept_id": "dec_place",
+  "item_id": null,
+  "id": "a.dec_place.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Places after the point are tenths, hundredths, thousandths, each ten times smaller."
+ },
+ {
+  "concept_id": "dec_place",
+  "item_id": null,
+  "id": "a.dec_place.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "In 0.47 the 4 is 4 tenths and the 7 is 7 hundredths."
+ },
+ {
+  "concept_id": "dec_place",
+  "item_id": null,
+  "id": "a.dec_place.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With decimal place value secure, you are ready to go back to adding and multiplying decimals."
+ },
+ {
+  "id": "a.dec_place.pr",
+  "concept_id": "dec_place",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.dec_place.1",
+  "body": ""
+ },
+ {
+  "id": "a.dec_place.ck1",
+  "concept_id": "dec_place",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.dec_place.2",
+  "body": ""
+ },
+ {
+  "id": "a.dec_place.ck2",
+  "concept_id": "dec_place",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.dec_place.3",
+  "body": ""
+ },
+ {
+  "concept_id": "dec_ops",
+  "item_id": null,
+  "id": "a.dec_ops.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Line up the decimal points to add; to multiply, ignore the points then place the point by counting decimal places."
+ },
+ {
+  "concept_id": "dec_ops",
+  "item_id": null,
+  "id": "a.dec_ops.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "2.5 + 1.75: line up as 2.50 + 1.75 = 4.25."
+ },
+ {
+  "concept_id": "dec_ops",
+  "item_id": null,
+  "id": "a.dec_ops.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With adding and multiplying decimals secure, you are ready to go back to finding a percent of a number."
+ },
+ {
+  "id": "a.dec_ops.pr",
+  "concept_id": "dec_ops",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.dec_ops.1",
+  "body": ""
+ },
+ {
+  "id": "a.dec_ops.ck1",
+  "concept_id": "dec_ops",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.dec_ops.2",
+  "body": ""
+ },
+ {
+  "id": "a.dec_ops.ck2",
+  "concept_id": "dec_ops",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.dec_ops.3",
+  "body": ""
+ },
+ {
+  "concept_id": "frac_to_dec",
+  "item_id": null,
+  "id": "a.frac_to_dec.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "A fraction is a division: divide the top by the bottom to get the decimal."
+ },
+ {
+  "concept_id": "frac_to_dec",
+  "item_id": null,
+  "id": "a.frac_to_dec.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "3/4 = 3 ÷ 4 = 0.75."
+ },
+ {
+  "concept_id": "frac_to_dec",
+  "item_id": null,
+  "id": "a.frac_to_dec.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With fractions as decimals secure, you are ready to go back to what a percent means."
+ },
+ {
+  "id": "a.frac_to_dec.pr",
+  "concept_id": "frac_to_dec",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.frac_to_dec.1",
+  "body": ""
+ },
+ {
+  "id": "a.frac_to_dec.ck1",
+  "concept_id": "frac_to_dec",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.frac_to_dec.2",
+  "body": ""
+ },
+ {
+  "id": "a.frac_to_dec.ck2",
+  "concept_id": "frac_to_dec",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.frac_to_dec.3",
+  "body": ""
+ },
+ {
+  "concept_id": "percent_meaning",
+  "item_id": null,
+  "id": "a.percent_meaning.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Percent means out of 100, so 45% is 45/100 or 0.45."
+ },
+ {
+  "concept_id": "percent_meaning",
+  "item_id": null,
+  "id": "a.percent_meaning.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "25% = 25/100 = 1/4."
+ },
+ {
+  "concept_id": "percent_meaning",
+  "item_id": null,
+  "id": "a.percent_meaning.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With what a percent means secure, you are ready to go back to finding a percent of a number."
+ },
+ {
+  "id": "a.percent_meaning.pr",
+  "concept_id": "percent_meaning",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.percent_meaning.1",
+  "body": ""
+ },
+ {
+  "id": "a.percent_meaning.ck1",
+  "concept_id": "percent_meaning",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.percent_meaning.2",
+  "body": ""
+ },
+ {
+  "id": "a.percent_meaning.ck2",
+  "concept_id": "percent_meaning",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.percent_meaning.3",
+  "body": ""
+ },
+ {
+  "concept_id": "percent_of",
+  "item_id": null,
+  "id": "a.percent_of.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Turn the percent into a decimal or fraction and multiply."
+ },
+ {
+  "concept_id": "percent_of",
+  "item_id": null,
+  "id": "a.percent_of.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "20% of 60 = 0.20 × 60 = 12."
+ },
+ {
+  "concept_id": "percent_of",
+  "item_id": null,
+  "id": "a.percent_of.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With finding a percent of a number secure, you are ready to go back to percent change."
+ },
+ {
+  "id": "a.percent_of.pr",
+  "concept_id": "percent_of",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.percent_of.1",
+  "body": ""
+ },
+ {
+  "id": "a.percent_of.ck1",
+  "concept_id": "percent_of",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.percent_of.2",
+  "body": ""
+ },
+ {
+  "id": "a.percent_of.ck2",
+  "concept_id": "percent_of",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.percent_of.3",
+  "body": ""
+ },
+ {
+  "concept_id": "percent_change",
+  "item_id": null,
+  "id": "a.percent_change.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Percent change is the change divided by the original value, times 100."
+ },
+ {
+  "concept_id": "percent_change",
+  "item_id": null,
+  "id": "a.percent_change.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "A rise from 50 to 60 is 10 ÷ 50 = 0.2, which is 20%."
+ },
+ {
+  "concept_id": "percent_change",
+  "item_id": null,
+  "id": "a.percent_change.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With percent change secure, go back to the question you missed."
+ },
+ {
+  "id": "a.percent_change.pr",
+  "concept_id": "percent_change",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.percent_change.1",
+  "body": ""
+ },
+ {
+  "id": "a.percent_change.ck1",
+  "concept_id": "percent_change",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.percent_change.2",
+  "body": ""
+ },
+ {
+  "id": "a.percent_change.ck2",
+  "concept_id": "percent_change",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.percent_change.3",
+  "body": ""
+ },
+ {
+  "concept_id": "ratio_meaning",
+  "item_id": null,
+  "id": "a.ratio_meaning.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "A ratio compares two quantities in a fixed order, written a:b."
+ },
+ {
+  "concept_id": "ratio_meaning",
+  "item_id": null,
+  "id": "a.ratio_meaning.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "3 red to 5 blue is the ratio 3:5, which is not the same as 5:3."
+ },
+ {
+  "concept_id": "ratio_meaning",
+  "item_id": null,
+  "id": "a.ratio_meaning.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With ratios secure, you are ready to go back to unit rates."
+ },
+ {
+  "id": "a.ratio_meaning.pr",
+  "concept_id": "ratio_meaning",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.ratio_meaning.1",
+  "body": ""
+ },
+ {
+  "id": "a.ratio_meaning.ck1",
+  "concept_id": "ratio_meaning",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.ratio_meaning.2",
+  "body": ""
+ },
+ {
+  "id": "a.ratio_meaning.ck2",
+  "concept_id": "ratio_meaning",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.ratio_meaning.3",
+  "body": ""
+ },
+ {
+  "concept_id": "unit_rate",
+  "item_id": null,
+  "id": "a.unit_rate.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "A unit rate is the amount for one unit; divide the total by the number of units."
+ },
+ {
+  "concept_id": "unit_rate",
+  "item_id": null,
+  "id": "a.unit_rate.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "12 apples for 60 rupees: 60 ÷ 12 = 5 rupees each."
+ },
+ {
+  "concept_id": "unit_rate",
+  "item_id": null,
+  "id": "a.unit_rate.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With unit rates secure, you are ready to go back to proportions."
+ },
+ {
+  "id": "a.unit_rate.pr",
+  "concept_id": "unit_rate",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.unit_rate.1",
+  "body": ""
+ },
+ {
+  "id": "a.unit_rate.ck1",
+  "concept_id": "unit_rate",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.unit_rate.2",
+  "body": ""
+ },
+ {
+  "id": "a.unit_rate.ck2",
+  "concept_id": "unit_rate",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.unit_rate.3",
+  "body": ""
+ },
+ {
+  "concept_id": "proportion",
+  "item_id": null,
+  "id": "a.proportion.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Two ratios are in proportion when they are equivalent; scale both parts by the same factor."
+ },
+ {
+  "concept_id": "proportion",
+  "item_id": null,
+  "id": "a.proportion.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "If 3 pens cost 15 rupees then 9 pens cost 45 rupees, because 9 is 3 × 3."
+ },
+ {
+  "concept_id": "proportion",
+  "item_id": null,
+  "id": "a.proportion.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With proportions secure, go back to the question you missed."
+ },
+ {
+  "id": "a.proportion.pr",
+  "concept_id": "proportion",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.proportion.1",
+  "body": ""
+ },
+ {
+  "id": "a.proportion.ck1",
+  "concept_id": "proportion",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.proportion.2",
+  "body": ""
+ },
+ {
+  "id": "a.proportion.ck2",
+  "concept_id": "proportion",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.proportion.3",
+  "body": ""
+ },
+ {
+  "concept_id": "variables",
+  "item_id": null,
+  "id": "a.variables.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "A letter stands for an unknown or changing number; 5n means 5 times n."
+ },
+ {
+  "concept_id": "variables",
+  "item_id": null,
+  "id": "a.variables.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "If n pencils cost 4 rupees each the cost is 4n rupees."
+ },
+ {
+  "concept_id": "variables",
+  "item_id": null,
+  "id": "a.variables.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With variables and expressions secure, you are ready to go back to evaluating expressions."
+ },
+ {
+  "id": "a.variables.pr",
+  "concept_id": "variables",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.variables.1",
+  "body": ""
+ },
+ {
+  "id": "a.variables.ck1",
+  "concept_id": "variables",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.variables.2",
+  "body": ""
+ },
+ {
+  "id": "a.variables.ck2",
+  "concept_id": "variables",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.variables.3",
+  "body": ""
+ },
+ {
+  "concept_id": "evaluate_expr",
+  "item_id": null,
+  "id": "a.evaluate_expr.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Substitute the value for the letter, then follow the order of operations."
+ },
+ {
+  "concept_id": "evaluate_expr",
+  "item_id": null,
+  "id": "a.evaluate_expr.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "3x + 2 when x = 4: 3 × 4 + 2 = 14."
+ },
+ {
+  "concept_id": "evaluate_expr",
+  "item_id": null,
+  "id": "a.evaluate_expr.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With evaluating expressions secure, go back to the question you missed."
+ },
+ {
+  "id": "a.evaluate_expr.pr",
+  "concept_id": "evaluate_expr",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.evaluate_expr.1",
+  "body": ""
+ },
+ {
+  "id": "a.evaluate_expr.ck1",
+  "concept_id": "evaluate_expr",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.evaluate_expr.2",
+  "body": ""
+ },
+ {
+  "id": "a.evaluate_expr.ck2",
+  "concept_id": "evaluate_expr",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.evaluate_expr.3",
+  "body": ""
+ },
+ {
+  "concept_id": "like_terms",
+  "item_id": null,
+  "id": "a.like_terms.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Only terms with the same letter part can be added: 3x + 2x = 5x, but 3x + 2y stays as it is."
+ },
+ {
+  "concept_id": "like_terms",
+  "item_id": null,
+  "id": "a.like_terms.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "4x + 3y + 2x = 6x + 3y."
+ },
+ {
+  "concept_id": "like_terms",
+  "item_id": null,
+  "id": "a.like_terms.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With combining like terms secure, go back to the question you missed."
+ },
+ {
+  "id": "a.like_terms.pr",
+  "concept_id": "like_terms",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.like_terms.1",
+  "body": ""
+ },
+ {
+  "id": "a.like_terms.ck1",
+  "concept_id": "like_terms",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.like_terms.2",
+  "body": ""
+ },
+ {
+  "id": "a.like_terms.ck2",
+  "concept_id": "like_terms",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.like_terms.3",
+  "body": ""
+ },
+ {
+  "concept_id": "one_step_eq",
+  "item_id": null,
+  "id": "a.one_step_eq.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Do the same operation to both sides to get the letter alone."
+ },
+ {
+  "concept_id": "one_step_eq",
+  "item_id": null,
+  "id": "a.one_step_eq.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "x + 5 = 12: subtract 5 from both sides, so x = 7."
+ },
+ {
+  "concept_id": "one_step_eq",
+  "item_id": null,
+  "id": "a.one_step_eq.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With one-step equations secure, you are ready to go back to two-step equations."
+ },
+ {
+  "id": "a.one_step_eq.pr",
+  "concept_id": "one_step_eq",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.one_step_eq.1",
+  "body": ""
+ },
+ {
+  "id": "a.one_step_eq.ck1",
+  "concept_id": "one_step_eq",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.one_step_eq.2",
+  "body": ""
+ },
+ {
+  "id": "a.one_step_eq.ck2",
+  "concept_id": "one_step_eq",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.one_step_eq.3",
+  "body": ""
+ },
+ {
+  "concept_id": "two_step_eq",
+  "item_id": null,
+  "id": "a.two_step_eq.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Undo the adding or subtracting first, then undo the multiplying or dividing."
+ },
+ {
+  "concept_id": "two_step_eq",
+  "item_id": null,
+  "id": "a.two_step_eq.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "2x + 3 = 11: subtract 3 to get 2x = 8, then divide by 2 so x = 4."
+ },
+ {
+  "concept_id": "two_step_eq",
+  "item_id": null,
+  "id": "a.two_step_eq.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With two-step equations secure, you are ready to go back to lines: y = mx + b."
+ },
+ {
+  "id": "a.two_step_eq.pr",
+  "concept_id": "two_step_eq",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.two_step_eq.1",
+  "body": ""
+ },
+ {
+  "id": "a.two_step_eq.ck1",
+  "concept_id": "two_step_eq",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.two_step_eq.2",
+  "body": ""
+ },
+ {
+  "id": "a.two_step_eq.ck2",
+  "concept_id": "two_step_eq",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.two_step_eq.3",
+  "body": ""
+ },
+ {
+  "concept_id": "coord_plane",
+  "item_id": null,
+  "id": "a.coord_plane.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "A point (x, y) is x across and y up from the origin; x always comes first."
+ },
+ {
+  "concept_id": "coord_plane",
+  "item_id": null,
+  "id": "a.coord_plane.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "(3, 5) is 3 to the right and 5 up."
+ },
+ {
+  "concept_id": "coord_plane",
+  "item_id": null,
+  "id": "a.coord_plane.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With the coordinate plane secure, you are ready to go back to slope."
+ },
+ {
+  "id": "a.coord_plane.pr",
+  "concept_id": "coord_plane",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.coord_plane.1",
+  "body": ""
+ },
+ {
+  "id": "a.coord_plane.ck1",
+  "concept_id": "coord_plane",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.coord_plane.2",
+  "body": ""
+ },
+ {
+  "id": "a.coord_plane.ck2",
+  "concept_id": "coord_plane",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.coord_plane.3",
+  "body": ""
+ },
+ {
+  "concept_id": "slope",
+  "item_id": null,
+  "id": "a.slope.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Slope is rise over run: how far up for each step across."
+ },
+ {
+  "concept_id": "slope",
+  "item_id": null,
+  "id": "a.slope.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "From (1, 2) to (3, 8): rise 6, run 2, slope 3."
+ },
+ {
+  "concept_id": "slope",
+  "item_id": null,
+  "id": "a.slope.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With slope secure, you are ready to go back to lines: y = mx + b."
+ },
+ {
+  "id": "a.slope.pr",
+  "concept_id": "slope",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.slope.1",
+  "body": ""
+ },
+ {
+  "id": "a.slope.ck1",
+  "concept_id": "slope",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.slope.2",
+  "body": ""
+ },
+ {
+  "id": "a.slope.ck2",
+  "concept_id": "slope",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.slope.3",
+  "body": ""
+ },
+ {
+  "concept_id": "linear_eq",
+  "item_id": null,
+  "id": "a.linear_eq.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "In y = mx + b, m is the slope and b is where the line crosses the y-axis."
+ },
+ {
+  "concept_id": "linear_eq",
+  "item_id": null,
+  "id": "a.linear_eq.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "y = 2x + 3 has slope 2 and crosses the y-axis at 3."
+ },
+ {
+  "concept_id": "linear_eq",
+  "item_id": null,
+  "id": "a.linear_eq.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With lines: y = mx + b secure, go back to the question you missed."
+ },
+ {
+  "id": "a.linear_eq.pr",
+  "concept_id": "linear_eq",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.linear_eq.1",
+  "body": ""
+ },
+ {
+  "id": "a.linear_eq.ck1",
+  "concept_id": "linear_eq",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.linear_eq.2",
+  "body": ""
+ },
+ {
+  "id": "a.linear_eq.ck2",
+  "concept_id": "linear_eq",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.linear_eq.3",
+  "body": ""
+ },
+ {
+  "concept_id": "perimeter",
+  "item_id": null,
+  "id": "a.perimeter.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Perimeter is the distance around a shape: add all the side lengths."
+ },
+ {
+  "concept_id": "perimeter",
+  "item_id": null,
+  "id": "a.perimeter.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "A 4 cm by 6 cm rectangle has perimeter 4 + 6 + 4 + 6 = 20 cm."
+ },
+ {
+  "concept_id": "perimeter",
+  "item_id": null,
+  "id": "a.perimeter.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With perimeter secure, you are ready to go back to area of rectangles."
+ },
+ {
+  "id": "a.perimeter.pr",
+  "concept_id": "perimeter",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.perimeter.1",
+  "body": ""
+ },
+ {
+  "id": "a.perimeter.ck1",
+  "concept_id": "perimeter",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.perimeter.2",
+  "body": ""
+ },
+ {
+  "id": "a.perimeter.ck2",
+  "concept_id": "perimeter",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.perimeter.3",
+  "body": ""
+ },
+ {
+  "concept_id": "area_rect",
+  "item_id": null,
+  "id": "a.area_rect.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Area is the space inside a shape; for a rectangle multiply length by width."
+ },
+ {
+  "concept_id": "area_rect",
+  "item_id": null,
+  "id": "a.area_rect.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "A 4 cm by 6 cm rectangle has area 24 cm²."
+ },
+ {
+  "concept_id": "area_rect",
+  "item_id": null,
+  "id": "a.area_rect.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With area of rectangles secure, you are ready to go back to area of triangles."
+ },
+ {
+  "id": "a.area_rect.pr",
+  "concept_id": "area_rect",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.area_rect.1",
+  "body": ""
+ },
+ {
+  "id": "a.area_rect.ck1",
+  "concept_id": "area_rect",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.area_rect.2",
+  "body": ""
+ },
+ {
+  "id": "a.area_rect.ck2",
+  "concept_id": "area_rect",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.area_rect.3",
+  "body": ""
+ },
+ {
+  "concept_id": "area_tri",
+  "item_id": null,
+  "id": "a.area_tri.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "A triangle is half of a rectangle with the same base and height: area = base × height ÷ 2."
+ },
+ {
+  "concept_id": "area_tri",
+  "item_id": null,
+  "id": "a.area_tri.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "Base 8, height 5: 8 × 5 ÷ 2 = 20 cm²."
+ },
+ {
+  "concept_id": "area_tri",
+  "item_id": null,
+  "id": "a.area_tri.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With area of triangles secure, go back to the question you missed."
+ },
+ {
+  "id": "a.area_tri.pr",
+  "concept_id": "area_tri",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.area_tri.1",
+  "body": ""
+ },
+ {
+  "id": "a.area_tri.ck1",
+  "concept_id": "area_tri",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.area_tri.2",
+  "body": ""
+ },
+ {
+  "id": "a.area_tri.ck2",
+  "concept_id": "area_tri",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.area_tri.3",
+  "body": ""
+ },
+ {
+  "concept_id": "angles",
+  "item_id": null,
+  "id": "a.angles.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "The three angles of any triangle add up to 180°."
+ },
+ {
+  "concept_id": "angles",
+  "item_id": null,
+  "id": "a.angles.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "If two angles are 50° and 60° the third is 180 − 110 = 70°."
+ },
+ {
+  "concept_id": "angles",
+  "item_id": null,
+  "id": "a.angles.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With angles in a triangle secure, you are ready to go back to pythagoras' theorem."
+ },
+ {
+  "id": "a.angles.pr",
+  "concept_id": "angles",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.angles.1",
+  "body": ""
+ },
+ {
+  "id": "a.angles.ck1",
+  "concept_id": "angles",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.angles.2",
+  "body": ""
+ },
+ {
+  "id": "a.angles.ck2",
+  "concept_id": "angles",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.angles.3",
+  "body": ""
+ },
+ {
+  "concept_id": "pythagoras",
+  "item_id": null,
+  "id": "a.pythagoras.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "In a right triangle, a² + b² = c² where c is the longest side."
+ },
+ {
+  "concept_id": "pythagoras",
+  "item_id": null,
+  "id": "a.pythagoras.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "Legs 3 and 4: 9 + 16 = 25, so the hypotenuse is 5."
+ },
+ {
+  "concept_id": "pythagoras",
+  "item_id": null,
+  "id": "a.pythagoras.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With pythagoras' theorem secure, go back to the question you missed."
+ },
+ {
+  "id": "a.pythagoras.pr",
+  "concept_id": "pythagoras",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.pythagoras.1",
+  "body": ""
+ },
+ {
+  "id": "a.pythagoras.ck1",
+  "concept_id": "pythagoras",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.pythagoras.2",
+  "body": ""
+ },
+ {
+  "id": "a.pythagoras.ck2",
+  "concept_id": "pythagoras",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.pythagoras.3",
+  "body": ""
+ },
+ {
+  "concept_id": "mean",
+  "item_id": null,
+  "id": "a.mean.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "The mean is the total divided by how many values there are."
+ },
+ {
+  "concept_id": "mean",
+  "item_id": null,
+  "id": "a.mean.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "Mean of 2, 4, 9: total 15 ÷ 3 = 5."
+ },
+ {
+  "concept_id": "mean",
+  "item_id": null,
+  "id": "a.mean.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With mean secure, you are ready to go back to median."
+ },
+ {
+  "id": "a.mean.pr",
+  "concept_id": "mean",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.mean.1",
+  "body": ""
+ },
+ {
+  "id": "a.mean.ck1",
+  "concept_id": "mean",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.mean.2",
+  "body": ""
+ },
+ {
+  "id": "a.mean.ck2",
+  "concept_id": "mean",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.mean.3",
+  "body": ""
+ },
+ {
+  "concept_id": "median",
+  "item_id": null,
+  "id": "a.median.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "The median is the middle value once the numbers are in order."
+ },
+ {
+  "concept_id": "median",
+  "item_id": null,
+  "id": "a.median.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "Sorted 3, 7, 9, 12, 20: the middle value, 9, is the median."
+ },
+ {
+  "concept_id": "median",
+  "item_id": null,
+  "id": "a.median.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With median secure, go back to the question you missed."
+ },
+ {
+  "id": "a.median.pr",
+  "concept_id": "median",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.median.1",
+  "body": ""
+ },
+ {
+  "id": "a.median.ck1",
+  "concept_id": "median",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.median.2",
+  "body": ""
+ },
+ {
+  "id": "a.median.ck2",
+  "concept_id": "median",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.median.3",
+  "body": ""
+ },
+ {
+  "concept_id": "probability",
+  "item_id": null,
+  "id": "a.probability.def",
+  "kind": "DEFINITION",
+  "est_seconds": 40,
+  "order_hint": 1,
+  "body": "Probability is favourable outcomes over all equally likely outcomes."
+ },
+ {
+  "concept_id": "probability",
+  "item_id": null,
+  "id": "a.probability.ex",
+  "kind": "WORKED_EXAMPLE",
+  "est_seconds": 60,
+  "order_hint": 1,
+  "body": "2 red among 5 marbles gives a chance of 2/5 of picking red."
+ },
+ {
+  "concept_id": "probability",
+  "item_id": null,
+  "id": "a.probability.br",
+  "kind": "BRIDGE",
+  "est_seconds": 20,
+  "order_hint": 1,
+  "body": "With basic probability secure, go back to the question you missed."
+ },
+ {
+  "id": "a.probability.pr",
+  "concept_id": "probability",
+  "kind": "PRACTICE",
+  "est_seconds": 45,
+  "order_hint": 1,
+  "item_id": "i.probability.1",
+  "body": ""
+ },
+ {
+  "id": "a.probability.ck1",
+  "concept_id": "probability",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 1,
+  "item_id": "i.probability.2",
+  "body": ""
+ },
+ {
+  "id": "a.probability.ck2",
+  "concept_id": "probability",
+  "kind": "CHECK",
+  "est_seconds": 30,
+  "order_hint": 2,
+  "item_id": "i.probability.3",
+  "body": ""
+ }
+]

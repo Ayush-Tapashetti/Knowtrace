@@ -1,0 +1,987 @@
+[
+ {
+  "item_id": "i.counting.1",
+  "concept_id": "counting",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.counting.2",
+  "concept_id": "counting",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.counting.3",
+  "concept_id": "counting",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.counting.4",
+  "concept_id": "counting",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.place_value.1",
+  "concept_id": "place_value",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.place_value.2",
+  "concept_id": "place_value",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.place_value.3",
+  "concept_id": "place_value",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.place_value.4",
+  "concept_id": "place_value",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.add_whole.1",
+  "concept_id": "add_whole",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.add_whole.2",
+  "concept_id": "add_whole",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.add_whole.3",
+  "concept_id": "add_whole",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.add_whole.4",
+  "concept_id": "add_whole",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.sub_whole.1",
+  "concept_id": "sub_whole",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.sub_whole.2",
+  "concept_id": "sub_whole",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.sub_whole.3",
+  "concept_id": "sub_whole",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.sub_whole.4",
+  "concept_id": "sub_whole",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.mult_facts.1",
+  "concept_id": "mult_facts",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.mult_facts.2",
+  "concept_id": "mult_facts",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.mult_facts.3",
+  "concept_id": "mult_facts",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.mult_facts.4",
+  "concept_id": "mult_facts",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.div_facts.1",
+  "concept_id": "div_facts",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.div_facts.2",
+  "concept_id": "div_facts",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.div_facts.3",
+  "concept_id": "div_facts",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.div_facts.4",
+  "concept_id": "div_facts",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.multi_digit_mult.1",
+  "concept_id": "multi_digit_mult",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.multi_digit_mult.2",
+  "concept_id": "multi_digit_mult",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.multi_digit_mult.3",
+  "concept_id": "multi_digit_mult",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.multi_digit_mult.4",
+  "concept_id": "multi_digit_mult",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.long_division.1",
+  "concept_id": "long_division",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.long_division.2",
+  "concept_id": "long_division",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.long_division.3",
+  "concept_id": "long_division",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.long_division.4",
+  "concept_id": "long_division",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.factors.1",
+  "concept_id": "factors",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.factors.2",
+  "concept_id": "factors",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.factors.3",
+  "concept_id": "factors",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.factors.4",
+  "concept_id": "factors",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.primes.1",
+  "concept_id": "primes",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.primes.2",
+  "concept_id": "primes",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.primes.3",
+  "concept_id": "primes",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.primes.4",
+  "concept_id": "primes",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.order_ops.1",
+  "concept_id": "order_ops",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.order_ops.2",
+  "concept_id": "order_ops",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.order_ops.3",
+  "concept_id": "order_ops",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.order_ops.4",
+  "concept_id": "order_ops",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.negatives.1",
+  "concept_id": "negatives",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.negatives.2",
+  "concept_id": "negatives",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.negatives.3",
+  "concept_id": "negatives",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.negatives.4",
+  "concept_id": "negatives",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.int_ops.1",
+  "concept_id": "int_ops",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.int_ops.2",
+  "concept_id": "int_ops",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.int_ops.3",
+  "concept_id": "int_ops",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.int_ops.4",
+  "concept_id": "int_ops",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.exponents.1",
+  "concept_id": "exponents",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.exponents.2",
+  "concept_id": "exponents",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.exponents.3",
+  "concept_id": "exponents",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.exponents.4",
+  "concept_id": "exponents",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.frac_meaning.1",
+  "concept_id": "frac_meaning",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.frac_meaning.2",
+  "concept_id": "frac_meaning",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.frac_meaning.3",
+  "concept_id": "frac_meaning",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.frac_meaning.4",
+  "concept_id": "frac_meaning",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.equiv_frac.1",
+  "concept_id": "equiv_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.equiv_frac.2",
+  "concept_id": "equiv_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.equiv_frac.3",
+  "concept_id": "equiv_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.equiv_frac.4",
+  "concept_id": "equiv_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.compare_frac.1",
+  "concept_id": "compare_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.compare_frac.2",
+  "concept_id": "compare_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.compare_frac.3",
+  "concept_id": "compare_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.compare_frac.4",
+  "concept_id": "compare_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.add_like_frac.1",
+  "concept_id": "add_like_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.add_like_frac.2",
+  "concept_id": "add_like_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.add_like_frac.3",
+  "concept_id": "add_like_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.add_like_frac.4",
+  "concept_id": "add_like_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.add_unlike_frac.1",
+  "concept_id": "add_unlike_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.add_unlike_frac.2",
+  "concept_id": "add_unlike_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.add_unlike_frac.3",
+  "concept_id": "add_unlike_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.add_unlike_frac.4",
+  "concept_id": "add_unlike_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.add_unlike_frac.4",
+  "concept_id": "equiv_frac",
+  "is_primary": false
+ },
+ {
+  "item_id": "i.mixed_numbers.1",
+  "concept_id": "mixed_numbers",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.mixed_numbers.2",
+  "concept_id": "mixed_numbers",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.mixed_numbers.3",
+  "concept_id": "mixed_numbers",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.mixed_numbers.4",
+  "concept_id": "mixed_numbers",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.mult_frac.1",
+  "concept_id": "mult_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.mult_frac.2",
+  "concept_id": "mult_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.mult_frac.3",
+  "concept_id": "mult_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.mult_frac.4",
+  "concept_id": "mult_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.div_frac.1",
+  "concept_id": "div_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.div_frac.2",
+  "concept_id": "div_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.div_frac.3",
+  "concept_id": "div_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.div_frac.4",
+  "concept_id": "div_frac",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.dec_place.1",
+  "concept_id": "dec_place",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.dec_place.2",
+  "concept_id": "dec_place",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.dec_place.3",
+  "concept_id": "dec_place",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.dec_place.4",
+  "concept_id": "dec_place",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.dec_ops.1",
+  "concept_id": "dec_ops",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.dec_ops.2",
+  "concept_id": "dec_ops",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.dec_ops.3",
+  "concept_id": "dec_ops",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.dec_ops.4",
+  "concept_id": "dec_ops",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.frac_to_dec.1",
+  "concept_id": "frac_to_dec",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.frac_to_dec.2",
+  "concept_id": "frac_to_dec",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.frac_to_dec.3",
+  "concept_id": "frac_to_dec",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.frac_to_dec.4",
+  "concept_id": "frac_to_dec",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.percent_meaning.1",
+  "concept_id": "percent_meaning",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.percent_meaning.2",
+  "concept_id": "percent_meaning",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.percent_meaning.3",
+  "concept_id": "percent_meaning",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.percent_meaning.4",
+  "concept_id": "percent_meaning",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.percent_of.1",
+  "concept_id": "percent_of",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.percent_of.2",
+  "concept_id": "percent_of",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.percent_of.3",
+  "concept_id": "percent_of",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.percent_of.4",
+  "concept_id": "percent_of",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.percent_of.4",
+  "concept_id": "dec_ops",
+  "is_primary": false
+ },
+ {
+  "item_id": "i.percent_change.1",
+  "concept_id": "percent_change",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.percent_change.2",
+  "concept_id": "percent_change",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.percent_change.3",
+  "concept_id": "percent_change",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.percent_change.4",
+  "concept_id": "percent_change",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.ratio_meaning.1",
+  "concept_id": "ratio_meaning",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.ratio_meaning.2",
+  "concept_id": "ratio_meaning",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.ratio_meaning.3",
+  "concept_id": "ratio_meaning",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.ratio_meaning.4",
+  "concept_id": "ratio_meaning",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.unit_rate.1",
+  "concept_id": "unit_rate",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.unit_rate.2",
+  "concept_id": "unit_rate",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.unit_rate.3",
+  "concept_id": "unit_rate",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.unit_rate.4",
+  "concept_id": "unit_rate",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.proportion.1",
+  "concept_id": "proportion",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.proportion.2",
+  "concept_id": "proportion",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.proportion.3",
+  "concept_id": "proportion",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.proportion.4",
+  "concept_id": "proportion",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.proportion.4",
+  "concept_id": "unit_rate",
+  "is_primary": false
+ },
+ {
+  "item_id": "i.variables.1",
+  "concept_id": "variables",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.variables.2",
+  "concept_id": "variables",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.variables.3",
+  "concept_id": "variables",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.variables.4",
+  "concept_id": "variables",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.evaluate_expr.1",
+  "concept_id": "evaluate_expr",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.evaluate_expr.2",
+  "concept_id": "evaluate_expr",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.evaluate_expr.3",
+  "concept_id": "evaluate_expr",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.evaluate_expr.4",
+  "concept_id": "evaluate_expr",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.like_terms.1",
+  "concept_id": "like_terms",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.like_terms.2",
+  "concept_id": "like_terms",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.like_terms.3",
+  "concept_id": "like_terms",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.like_terms.4",
+  "concept_id": "like_terms",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.one_step_eq.1",
+  "concept_id": "one_step_eq",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.one_step_eq.2",
+  "concept_id": "one_step_eq",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.one_step_eq.3",
+  "concept_id": "one_step_eq",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.one_step_eq.4",
+  "concept_id": "one_step_eq",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.two_step_eq.1",
+  "concept_id": "two_step_eq",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.two_step_eq.2",
+  "concept_id": "two_step_eq",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.two_step_eq.3",
+  "concept_id": "two_step_eq",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.two_step_eq.4",
+  "concept_id": "two_step_eq",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.two_step_eq.4",
+  "concept_id": "one_step_eq",
+  "is_primary": false
+ },
+ {
+  "item_id": "i.coord_plane.1",
+  "concept_id": "coord_plane",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.coord_plane.2",
+  "concept_id": "coord_plane",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.coord_plane.3",
+  "concept_id": "coord_plane",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.coord_plane.4",
+  "concept_id": "coord_plane",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.slope.1",
+  "concept_id": "slope",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.slope.2",
+  "concept_id": "slope",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.slope.3",
+  "concept_id": "slope",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.slope.4",
+  "concept_id": "slope",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.slope.4",
+  "concept_id": "unit_rate",
+  "is_primary": false
+ },
+ {
+  "item_id": "i.linear_eq.1",
+  "concept_id": "linear_eq",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.linear_eq.2",
+  "concept_id": "linear_eq",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.linear_eq.3",
+  "concept_id": "linear_eq",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.linear_eq.4",
+  "concept_id": "linear_eq",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.linear_eq.4",
+  "concept_id": "slope",
+  "is_primary": false
+ },
+ {
+  "item_id": "i.perimeter.1",
+  "concept_id": "perimeter",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.perimeter.2",
+  "concept_id": "perimeter",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.perimeter.3",
+  "concept_id": "perimeter",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.perimeter.4",
+  "concept_id": "perimeter",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.area_rect.1",
+  "concept_id": "area_rect",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.area_rect.2",
+  "concept_id": "area_rect",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.area_rect.3",
+  "concept_id": "area_rect",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.area_rect.4",
+  "concept_id": "area_rect",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.area_tri.1",
+  "concept_id": "area_tri",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.area_tri.2",
+  "concept_id": "area_tri",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.area_tri.3",
+  "concept_id": "area_tri",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.area_tri.4",
+  "concept_id": "area_tri",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.area_tri.4",
+  "concept_id": "div_facts",
+  "is_primary": false
+ },
+ {
+  "item_id": "i.angles.1",
+  "concept_id": "angles",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.angles.2",
+  "concept_id": "angles",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.angles.3",
+  "concept_id": "angles",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.angles.4",
+  "concept_id": "angles",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.pythagoras.1",
+  "concept_id": "pythagoras",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.pythagoras.2",
+  "concept_id": "pythagoras",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.pythagoras.3",
+  "concept_id": "pythagoras",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.pythagoras.4",
+  "concept_id": "pythagoras",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.pythagoras.4",
+  "concept_id": "exponents",
+  "is_primary": false
+ },
+ {
+  "item_id": "i.mean.1",
+  "concept_id": "mean",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.mean.2",
+  "concept_id": "mean",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.mean.3",
+  "concept_id": "mean",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.mean.4",
+  "concept_id": "mean",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.median.1",
+  "concept_id": "median",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.median.2",
+  "concept_id": "median",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.median.3",
+  "concept_id": "median",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.median.4",
+  "concept_id": "median",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.median.4",
+  "concept_id": "place_value",
+  "is_primary": false
+ },
+ {
+  "item_id": "i.probability.1",
+  "concept_id": "probability",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.probability.2",
+  "concept_id": "probability",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.probability.3",
+  "concept_id": "probability",
+  "is_primary": true
+ },
+ {
+  "item_id": "i.probability.4",
+  "concept_id": "probability",
+  "is_primary": true
+ }
+]
