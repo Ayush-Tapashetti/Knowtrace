@@ -1,0 +1,96 @@
+[project]
+name = "knowtrace"
+version = "0.1.0"
+description = "Knowledge-graph diagnostic engine: finds the root-cause concept gap and assembles a micro-lesson."
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi==0.162.0",
+  "uvicorn==0.54.0",
+  "pydantic==2.14.2",
+  "pydantic-settings==2.16.2",
+  "sqlmodel==0.0.48",
+  "sqlalchemy==2.1.6",
+  "httpx==0.28.1",
+]
+
+[project.optional-dependencies]
+llm = ["anthropic==2.3.0"]
+dev = [
+  "pytest==9.2.0",
+  "pytest-cov==7.1.0",
+  "hypothesis==6.170.14",
+  "ruff==0.17.3",
+  "mypy==2.4.1",
+  "import-linter==2.15",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.mypy]
+strict = true
+mypy_path = "src"
+plugins = ["pydantic.mypy"]
+packages = ["knowtrace"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py311"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]
+
+[tool.ruff.lint.per-file-ignores]
+# Authoring script: dense data tables and real maths symbols (×, −) in question text.
+"content/build_seed.py" = ["E501", "RUF001"]
+
+[tool.importlinter]
+root_package = "knowtrace"
+include_external_packages = true
+
+[[tool.importlinter.contracts]]
+name = "domain is pure (stdlib + itself only)"
+type = "forbidden"
+source_modules = ["knowtrace.domain"]
+forbidden_modules = [
+  "knowtrace.models", "knowtrace.core", "knowtrace.integrations", "knowtrace.repositories",
+  "knowtrace.services", "knowtrace.routers", "knowtrace.schemas",
+  "sqlmodel", "sqlalchemy", "fastapi", "starlette", "pydantic", "pydantic_settings",
+  "httpx", "httpx2", "anthropic",
+]
+
+[[tool.importlinter.contracts]]
+name = "integrations never touch persistence or HTTP layers"
+type = "forbidden"
+source_modules = ["knowtrace.integrations"]
+forbidden_modules = ["knowtrace.models", "sqlmodel", "sqlalchemy", "fastapi", "starlette"]
+
+[[tool.importlinter.contracts]]
+name = "models never import domain logic upward"
+type = "forbidden"
+source_modules = ["knowtrace.models"]
+forbidden_modules = ["knowtrace.integrations", "fastapi", "starlette"]
+
+[[tool.importlinter.contracts]]
+name = "routers are thin: no persistence, no integrations (direct imports only)"
+type = "forbidden"
+source_modules = ["knowtrace.routers"]
+forbidden_modules = [
+  "knowtrace.models", "knowtrace.repositories", "knowtrace.integrations", "sqlmodel", "sqlalchemy",
+]
+allow_indirect_imports = true
+
+[[tool.importlinter.contracts]]
+name = "repositories sit below services"
+type = "forbidden"
+source_modules = ["knowtrace.repositories"]
+forbidden_modules = ["knowtrace.services", "knowtrace.routers", "knowtrace.schemas", "knowtrace.integrations"]
+
+[[tool.importlinter.contracts]]
+name = "services know nothing about HTTP"
+type = "forbidden"
+source_modules = ["knowtrace.services"]
+forbidden_modules = ["knowtrace.routers", "knowtrace.schemas", "fastapi", "starlette"]
