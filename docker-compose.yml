@@ -1,0 +1,29 @@
+# KnowTrace: `docker compose up --build`, then open http://localhost:8080
+services:
+  api:
+    build: ./backend
+    environment:
+      # Everything runs behind one nginx address, so allow a higher per-learner budget than the dev default.
+      RATE_LIMIT_PER_MINUTE: "300"
+      CORS_ORIGINS: "http://localhost:8080"
+      # Optional model rewording stays off unless you change these (see RUNNING.md section 8).
+      DETERMINISTIC_ONLY: "${DETERMINISTIC_ONLY:-true}"
+      LLM_REPHRASE_ENABLED: "${LLM_REPHRASE_ENABLED:-false}"
+      ANTHROPIC_API_KEY: "${ANTHROPIC_API_KEY:-}"
+    volumes:
+      - knowtrace-data:/data
+    restart: unless-stopped
+    # Not published to the host: only the web container reaches it. Uncomment to call the API directly.
+    # ports: ["8000:8000"]
+
+  web:
+    build: ./frontend
+    depends_on:
+      api:
+        condition: service_healthy
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+
+volumes:
+  knowtrace-data:
